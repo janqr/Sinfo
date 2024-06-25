@@ -10,7 +10,7 @@
 #-----------      ---------------------------
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
-# eu		      Europa (Frankfurt)say h1
+# eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
 # jp		      Japón (Tokyo)
 # sa		      Sudamérica (São Paulo)
